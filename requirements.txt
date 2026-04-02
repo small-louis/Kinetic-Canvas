@@ -1,0 +1,13 @@
+python-osc==1.9.0
+pygame==2.6.1
+black==24.10.0
+matplotlib==3.9.2
+numpy==2.1.2
+asynciolimiter==1.1.0.post3
+pySerialTransfer==2.6.9
+pyserial==3.5
+sliplib==0.6.2
+cobs==1.2.1
+crc==7.1.0
+Cartopy
+git+https://github.com/m0rp43us/openmeteopy
